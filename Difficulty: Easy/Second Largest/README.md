@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/second-largest3735/1">Second Largest</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given an array <strong>arr</strong>, return the <strong>second largest</strong> distinct element from an array. </span><span style="font-size: 18px;">If the second largest element doesn't exist then return <strong>-1</strong>.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/second-largest3735/1">Second Largest</a></h2></h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given an array <strong>arr</strong>, return the <strong>second largest</strong> distinct element from an array. </span><span style="font-size: 18px;">If the second largest element doesn't exist then return <strong>-1</strong>.</span></p>
 <p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
 <pre><span style="font-size: 18px;"><strong>Input:</strong> arr = [12, 35, 1, 10, 34, 1]
 <strong>Output:</strong> 34
