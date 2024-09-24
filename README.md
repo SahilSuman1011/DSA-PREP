@@ -1,3 +1,3 @@
 # Jai Shree Ram 
-# DSA-251-PROPEERS
+# DSA-PREPARATION
 Solving and Uploading DSA Questions daily .
